@@ -69,7 +69,7 @@ const page = () => {
       <button className='text-[#ffffff] bg-[#1F2833] rounded-xl font-bold px-3 py-4 text-2xl' >Add Task</button>
     </form>
     <hr/>
-    <div className='p-8 bg-[#C5C6C7]'>
+    <div className='p-8 bg-[#C5C6C7]'  >
       <ul>
         {renderTask}
       
